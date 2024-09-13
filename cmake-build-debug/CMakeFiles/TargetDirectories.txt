@@ -1,0 +1,7 @@
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/Homework1.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/lab_problem2.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/lab_problem3.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/lab_problem4.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/lab_problem5.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/C++/Homework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

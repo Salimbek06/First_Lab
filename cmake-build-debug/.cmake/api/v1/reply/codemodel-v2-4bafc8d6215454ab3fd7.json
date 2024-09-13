@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Homework1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework1-Debug-5045101f92f5b01a14f5.json",
+					"name" : "Homework1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_problem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_problem2-Debug-a857b165cac07e917765.json",
+					"name" : "lab_problem2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_problem3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_problem3-Debug-09d85d86deecc2cd51d4.json",
+					"name" : "lab_problem3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_problem4-Debug-5cf76e27cef28f0584a8.json",
+					"name" : "lab_problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lab_problem5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lab_problem5-Debug-4e1a3959c69e6a4700c0.json",
+					"name" : "lab_problem5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Clion/C++/Homework1/cmake-build-debug",
+		"source" : "D:/Clion/C++/Homework1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
